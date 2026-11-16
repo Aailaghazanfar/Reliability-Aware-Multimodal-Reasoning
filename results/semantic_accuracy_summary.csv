@@ -1,0 +1,5 @@
+condition,correct,partial,incorrect,total,strict_accuracy_percent,scoring_status
+IMAGE_ONLY,17.0,1.0,0.0,18,94.44,Preliminary semantic scoring
+TRUE_TEXT,17.0,1.0,0.0,18,94.44,Preliminary semantic scoring
+MISLEADING_TEXT,15.0,0.0,3.0,18,83.33,Preliminary semantic scoring
+TEXT_ONLY,,,,18,,Not scored

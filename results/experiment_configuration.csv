@@ -1,0 +1,11 @@
+Parameter,Value
+Model,Qwen/Qwen2-VL-2B-Instruct
+Dataset,A-OKVQA validation subset
+Images,18
+Questions,18
+Conditions,4
+Total inference trials,72
+Decoding strategy,Greedy decoding
+Maximum generated tokens,32
+Fine-tuning,None - frozen model
+GPU,Tesla T4

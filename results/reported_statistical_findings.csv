@@ -1,0 +1,6 @@
+analysis,reported_result,interpretation,recalculated_from_recovered_files
+McNemar accuracy comparisons,No significant differences,No statistically significant paired accuracy differences established,No
+Friedman accuracy test,p = 0.3679,No significant overall accuracy difference,No
+Friedman entropy test,p = 0.0421,Exploratory significance; not significant after Bonferroni correction across four metrics,No
+IMAGE_ONLY vs MISLEADING_TEXT entropy,Holm-adjusted p = 0.0084,Significant after Holm correction within the entropy metric,No
+Confidence-correctness associations,Not significant after correction,Exploratory associations did not survive correction,No

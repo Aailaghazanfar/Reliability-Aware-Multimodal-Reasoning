@@ -1,0 +1,8 @@
+Limitation,Description
+Small evaluation sample,Only 18 image-question pairs were evaluated.
+Preliminary semantic annotations,Semantic labels were preliminary.
+Limited visual validation,Only five images were directly reviewed visually.
+Unverified text-only arbitration selections,Six confidence-based text selections remain unverified.
+Token confidence calibration,Token probabilities are not calibrated probabilities of answer correctness.
+No demonstrated accuracy improvement,Neither arbitration strategy demonstrated improvement over the image-only baseline.
+Heuristic arbitration mechanisms,The arbitration methods do not constitute a learned reliability estimator.

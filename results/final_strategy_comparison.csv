@@ -1,0 +1,4 @@
+strategy,total_cases,correct,partial,incorrect,unverified,verified_cases,verified_correct_percent,coverage_percent
+Image-only,18,17,1,0,0,18,94.44,100.0
+Confidence-based,18,12,0,0,6,12,100.0,66.67
+Conflict-aware,18,17,1,0,0,18,94.44,100.0

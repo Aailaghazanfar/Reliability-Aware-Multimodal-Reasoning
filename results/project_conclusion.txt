@@ -1,0 +1,45 @@
+
+PROJECT CONCLUSION
+=================================================
+
+This project investigated whether modality-specific
+reliability signals could help a frozen Vision-Language
+Model handle conflicting visual and textual evidence.
+
+Qwen2-VL-2B-Instruct was evaluated using 18 image-question
+pairs across four controlled experimental conditions,
+resulting in 72 inference trials.
+
+The misleading-text condition was associated with lower
+mean token probability, lower top-two probability margin,
+and higher token entropy compared with image-only input.
+
+However, no statistically significant overall accuracy
+difference was established.
+
+Two arbitration mechanisms were implemented.
+
+The confidence-based mechanism selected image evidence
+in 12 cases and text evidence in 6 cases. The six
+text-selected cases remain unverified.
+
+The conflict-aware image-priority safeguard selected
+image evidence in all 18 cases and reproduced the
+image-only baseline performance.
+
+Therefore, the experiments demonstrate an association
+between misleading textual evidence and increased
+token-level uncertainty, but do not establish that
+the implemented arbitration mechanisms improve
+answer accuracy.
+
+FUTURE WORK
+=================================================
+
+- Expand the evaluation dataset.
+- Independently validate semantic annotations.
+- Evaluate additional VLM architectures.
+- Investigate calibrated modality-specific reliability.
+- Explore adaptive evidence weighting.
+- Evaluate arbitration using a larger and independently
+  annotated benchmark.
