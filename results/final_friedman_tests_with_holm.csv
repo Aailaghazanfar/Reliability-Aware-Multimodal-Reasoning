@@ -1,0 +1,5 @@
+metric,test,conditions_compared,n_images,statistic,p_value,holm_adjusted_p_across_4_metrics,significant_after_holm
+mean_token_probability,Friedman,4,18,6.666666666666686,0.08331630551120137,0.17012440041064336,False
+mean_token_entropy,Friedman,4,18,8.46666666666664,0.03729022783365055,0.1491609113346022,False
+mean_top2_margin,Friedman,4,18,4.800000000000011,0.18704174890490707,0.18704174890490707,False
+mean_token_log_probability,Friedman,4,18,7.533333333333303,0.05670813347021446,0.17012440041064336,False

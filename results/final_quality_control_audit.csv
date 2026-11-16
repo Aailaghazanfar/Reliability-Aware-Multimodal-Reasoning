@@ -1,0 +1,14 @@
+check,status,details
+Inference dataset contains 72 records,PASS,Records: 72
+Inference dataset contains 18 unique images,PASS,Images: 18
+All four experimental conditions are present,PASS,"Conditions: ['IMAGE_ONLY', 'MISLEADING_TEXT', 'TEXT_ONLY', 'TRUE_TEXT']"
+Four Friedman tests calculated,PASS,Rows: 4
+Twenty-four pairwise comparisons calculated,PASS,Rows: 24
+Three-condition entropy Friedman result reproduced,PASS,p-value: 0.04214
+Confidence arbitration selects 12 image candidates,PASS,Image selections: 12
+Confidence arbitration selects 6 text candidates,PASS,Text selections: 6
+All 18 answer pairs are string disagreements,PASS,Disagreements: 18
+Safeguard reproduces image-only answers,PASS,Safeguard predictions match image-only predictions
+Final strategy comparison contains three strategies,PASS,Strategies: 3
+Confidence-based accuracy remains unreported,PASS,No unsupported accuracy claim
+Required analysis CSV files exported,PASS,Missing: None

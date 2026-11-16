@@ -1,0 +1,19 @@
+image_id,image_answer,text_answer,image_score,text_score,selected_condition,selected_answer,image_minus_text_score,answers_agree,safeguard_selected_answer,semantic_correctness
+24243,refrigerator,The open door belongs to a wardrobe.,0.4466736321345728,-1.3093792422611787,IMAGE_ONLY,refrigerator,1.7560528743957515,False,refrigerator,NOT_AVAILABLE_AT_CASE_LEVEL
+88462,school,The bus in the image is a city transit bus.,-1.4973582346694574,0.5708336921653371,TEXT_ONLY,The bus in the image is a city transit bus.,-2.0681919268347944,False,school,NOT_AVAILABLE_AT_CASE_LEVEL
+91406,4,There are three women in the picture.,2.0764261613581225,0.5600948195796348,IMAGE_ONLY,4,1.5163313417784878,False,4,NOT_AVAILABLE_AT_CASE_LEVEL
+101884,truck,The vehicle in the opening is a bus.,1.3169368272178414,0.011732058679681634,IMAGE_ONLY,truck,1.3052047685381598,False,truck,NOT_AVAILABLE_AT_CASE_LEVEL
+174231,laptop,The cat is lying on a cardboard box.,0.49698135965585327,0.31977228226276977,IMAGE_ONLY,laptop,0.1772090773930835,False,laptop,NOT_AVAILABLE_AT_CASE_LEVEL
+192670,baseball,Cricket,1.0496671945181166,-1.925682818077665,IMAGE_ONLY,baseball,2.975350012595782,False,baseball,NOT_AVAILABLE_AT_CASE_LEVEL
+271116,phone,The man in the gray suit is looking down at a wristwatch.,-0.37252971235500837,0.22839122792602665,TEXT_ONLY,The man in the gray suit is looking down at a wristwatch.,-0.600920940281035,False,phone,NOT_AVAILABLE_AT_CASE_LEVEL
+308394,bag,"No, there is no book beside the person on the seat.",-0.20712063591393381,-0.8786917885567176,IMAGE_ONLY,bag,0.6715711526427838,False,bag,NOT_AVAILABLE_AT_CASE_LEVEL
+320743,riding,The people in blue are standing beside the elephants.,-0.8550825570205326,0.17155093745313565,TEXT_ONLY,The people in blue are standing beside the elephants.,-1.0266334944736681,False,riding,NOT_AVAILABLE_AT_CASE_LEVEL
+322352,2,There are three green plants on the right side of the room.,-0.21291743616387127,0.9362256069718415,TEXT_ONLY,There are three green plants on the right side of the room.,-1.1491430431357128,False,2,NOT_AVAILABLE_AT_CASE_LEVEL
+359219,2,There are three pizzas in the image.,1.9782509081066506,0.07187475092745038,IMAGE_ONLY,2,1.9063761571792002,False,2,NOT_AVAILABLE_AT_CASE_LEVEL
+431848,white,The man wears a black T-shirt.,-0.28781709448369097,-0.07848066156406457,TEXT_ONLY,The man wears a black T-shirt.,-0.2093364329196264,False,white,NOT_AVAILABLE_AT_CASE_LEVEL
+442323,2,There are three visible lights in the room.,0.7826746138649745,0.46306670852186715,IMAGE_ONLY,2,0.31960790534310735,False,2,NOT_AVAILABLE_AT_CASE_LEVEL
+447465,skiing,The two people are walking.,0.4365925454510464,0.06369874057744866,IMAGE_ONLY,skiing,0.37289380487359775,False,skiing,NOT_AVAILABLE_AT_CASE_LEVEL
+450758,giraffe,The animals on the grass are zebras.,1.4800963198826504,-0.39284578995813674,IMAGE_ONLY,giraffe,1.8729421098407872,False,giraffe,NOT_AVAILABLE_AT_CASE_LEVEL
+488664,train,The transportation shown is a train.,-0.5933696250549206,-1.6735692342090225,IMAGE_ONLY,train,1.0801996091541017,False,train,NOT_AVAILABLE_AT_CASE_LEVEL
+497568,airplane,Helicopter,-0.5311699305707903,-1.6690788796593112,IMAGE_ONLY,airplane,1.137908949088521,False,airplane,NOT_AVAILABLE_AT_CASE_LEVEL
+520324,airplane,The transportation shown is a helicopter.,-0.5994967938306973,-0.3769499529060088,TEXT_ONLY,The transportation shown is a helicopter.,-0.22254684092468852,False,airplane,NOT_AVAILABLE_AT_CASE_LEVEL

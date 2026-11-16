@@ -1,0 +1,12 @@
+file,exists,size_kb
+recalculated_friedman_tests.csv,True,0.34
+recalculated_pairwise_wilcoxon_tests.csv,True,2.42
+pairwise_tests_global_24.csv,True,2.62
+pairwise_tests_visual_global_12.csv,True,1.69
+friedman_visual_conditions_only.csv,True,0.31
+reconstructed_confidence_arbitration.csv,True,2.6
+reconstructed_arbitration_selection_summary.csv,True,0.06
+reconstructed_conflict_aware_safeguard.csv,True,2.25
+conflict_aware_safeguard_summary.csv,True,0.04
+final_strategy_comparison.csv,True,0.53
+final_case_level_comparison.csv,True,3.37
